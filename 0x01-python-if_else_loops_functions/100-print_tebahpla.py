@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 for a in range(0, 26):
     d = ord('z') - a
     if a % 2 == 1:
