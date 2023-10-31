@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 def islower(c):
-    if ord('a') <= c <= ord('z'):
+    if 97 <= ord(c) <= 122:
         return c
