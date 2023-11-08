@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#Tempah
 
 def multiply_by_2(a_dictionary):
     """Return a new dictionary with all values multipled by 2."""

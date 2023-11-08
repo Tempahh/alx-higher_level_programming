@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#Tempah
 
 def weight_average(my_list=[]):
     """Return the weighted average of all integers in a list of tuples."""

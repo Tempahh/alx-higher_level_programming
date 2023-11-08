@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#Tempah
 
 def simple_delete(a_dictionary, key=""):
     if key in a_dictionary:
